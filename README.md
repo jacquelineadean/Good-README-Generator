@@ -30,7 +30,7 @@ THEN I am taken to the corresponding section of the README
 
 [Usage](#usage)
 
-[License](#liscense)
+[License](#license)
 
 [Contribution](#contribution)
 
