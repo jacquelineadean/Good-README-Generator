@@ -1,9 +1,9 @@
-# Good-README-Generator
+# Good README.md Generator
 
-## Description 
+# Description 
 When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
-### User Story
+## User Story
 AS A developer<br>
 I WANT a README generator<br>
 SO THAT can quickly create a professional README for a new project
@@ -25,12 +25,21 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents<br>
 THEN I am taken to the corresponding section of the README
 
-## Installation
+## Table of Contents
+[Installation](#installation)
+[Usage](#usage)
+[License](#liscense)
+[Contribution](#contribution)
+[Tests](#tests)
+[Questions](#questions)
 
-## Usage
+# Installation
+In order to use the application, you wi
 
-## Credits
+# Usage
 
-## License
+# Credits
+
+# License
 
 

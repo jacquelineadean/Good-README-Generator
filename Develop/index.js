@@ -61,7 +61,7 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
-    // Create Markdown
+    // Create Markdown from data
     const markdown = generateMarkdown(data);
     // Write Markdown file
     fs.writeFile(fileName, markdown, function (err) {
@@ -72,6 +72,7 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
+    // inquirer module
     inquirer
      .prompt(questions)
      .then(function(data) {
