@@ -27,10 +27,15 @@ THEN I am taken to the corresponding section of the README
 
 # Table of Contents
 [Installation](#installation)
+
 [Usage](#usage)
+
 [License](#liscense)
+
 [Contribution](#contribution)
+
 [Tests](#tests)
+
 [Questions](#questions)
 
 # Installation
