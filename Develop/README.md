@@ -1,6 +1,6 @@
-# h
+# Example
   # Description
-  h
+  Example description goes here.
 
   ## Table of Contents
   [Installation](#installation)
@@ -11,23 +11,25 @@
   [Questions](#questions)
 
   ## Installation
-  h
+  Installation steps go here.
 
   ## Usage
-  h
+  Usage information goes here.
 
   ## License
   The application is covered under the MIT license.
-  
+
   ![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
 
   ## Contribution
-  h
+  Contribution guidelines go here.
 
   ## Tests
-  h
+  Test instructions go here.
 
   ## Questions
-  **Github Username:** 
-  **Github Profile:** www.github.com//
-  **Email Address:** 
+  **Github Username:** exampleusername
+
+  **Github Profile:** www.github.com/exampleusername/
+  
+  **Email Address:** example@email.com
