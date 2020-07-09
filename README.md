@@ -25,7 +25,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents<br>
 THEN I am taken to the corresponding section of the README
 
-## Table of Contents
+# Table of Contents
 [Installation](#installation)
 [Usage](#usage)
 [License](#liscense)
@@ -38,8 +38,12 @@ In order to use the application, you wi
 
 # Usage
 
-# Credits
-
 # License
+
+# Contribution
+
+# Tests
+
+# Questions
 
 
